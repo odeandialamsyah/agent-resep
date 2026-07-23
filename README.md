@@ -20,3 +20,13 @@ Sebelum menjalankan agent ini, pastikan Anda telah menginstal pustaka yang dibut
 
 ```bash
 pip install google-adk requests
+
+## ▶️ Menjalankan Agent
+
+Setelah semua siap:
+
+```bash
+adk web
+```
+
+Buka browser ke [http://localhost:8000](http://localhost:8000) dan gunakan antarmuka chat untuk bertanya tentang resep.
